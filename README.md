@@ -5,6 +5,6 @@
 
 Of course it was a school project with all the induced restricions.
 - Make bonus
-- ./so_long_bonus map.ber 1 2 or 3 (you can choose your difficulty level)
+- ./so_long_bonus map.ber 1,2 or 3 (you can choose your difficulty level)
 - play with the ADWS keys (for linux change the keycodes in /inc_bonus/struct.h)
-- 
+- When you play keep an eye on the command line.
