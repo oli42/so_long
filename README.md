@@ -1,4 +1,4 @@
-# solong
+# solong - A 2D game in C
 
 ![solong](https://user-images.githubusercontent.com/71543496/129474730-0e5d51e6-88e4-4c38-98ff-805248f11229.png)
 
